@@ -1,4 +1,4 @@
-package prueba
+package saludador
 
 import "fmt"
 
